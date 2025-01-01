@@ -21,3 +21,7 @@ let size = fruits.length;
 
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.sort();
+
+if (hour < 18) {
+  greeting = "Good day";
+}
