@@ -7,3 +7,11 @@ function myFunction(p1, p2) {
 }
 
 const car = {type:"Fiat", model:"500", color:"white"};
+
+// Create an Object
+const person = {
+  firstName: "John",
+  lastName: "Doe",
+  age: 50,
+  eyeColor: "blue"
+};
