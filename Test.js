@@ -18,3 +18,6 @@ const person = {
 
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 let size = fruits.length;
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.sort();
