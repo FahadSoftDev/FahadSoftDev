@@ -15,3 +15,6 @@ const person = {
   age: 50,
   eyeColor: "blue"
 };
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+let size = fruits.length;
