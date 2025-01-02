@@ -36,3 +36,6 @@ const greet = function () {
 };
     
 greet();
+const greet = () => console.log("Welcome to GeeksforGeeks!");
+
+greet();
