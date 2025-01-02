@@ -31,11 +31,6 @@ if (hour < 18) {
   greeting = "Good day";
 }
 
-const greet = function () {
-    console.log("Welcome to GeeksforGeeks!");
-};
-    
-greet();
 const greet = () => console.log("Welcome to GeeksforGeeks!");
 
 greet();
