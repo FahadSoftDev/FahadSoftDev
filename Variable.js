@@ -1,1 +1,1 @@
-variable
+var hello : 23;
