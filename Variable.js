@@ -29,3 +29,14 @@ if (hour < 18) {
 } else {
   greeting = "Good evening";
 }
+  
+  switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+  }
