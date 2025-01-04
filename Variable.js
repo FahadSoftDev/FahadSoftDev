@@ -15,3 +15,6 @@ console.log(hello+newone+ok)
 if (condition) {
   //  block of code to be executed if the condition is true
 }
+if (hour < 18) {
+  greeting = "Good day";
+}
