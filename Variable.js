@@ -8,4 +8,6 @@ const c = 67
 const abc = a + b + c
 console.log(abc)
 
+console.log(c-a)
+
 console.log(hello+newone+ok)
