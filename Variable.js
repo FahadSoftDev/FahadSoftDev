@@ -11,3 +11,7 @@ console.log(abc)
 console.log(c-a)
 
 console.log(hello+newone+ok)
+
+if (condition) {
+  //  block of code to be executed if the condition is true
+}
