@@ -40,3 +40,4 @@ if (hour < 18) {
   default:
     // code block
   }
+console.log("hello")
